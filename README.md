@@ -1,0 +1,1 @@
+Small program for monitoring a filesystem and running an application when it detects changes
